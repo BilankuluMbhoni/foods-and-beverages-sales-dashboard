@@ -1,4 +1,4 @@
-# Sales Insights Dashboard
+# foods and beverages sales dashboard
 
 ## Overview
 The **Sales Insights Dashboard** is an interactive and data-driven tool designed to provide a comprehensive view of sales performance across multiple dimensions. This dashboard offers deep insights into revenue trends, product performance, sales team efficiency, and sales channels, helping businesses make informed decisions based on real data.
